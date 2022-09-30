@@ -7,7 +7,7 @@ This project examines different Kickstarter campaigns and how they performed con
 Starting from the Outcomes Based on Launch Date, I first created a pivot table based on the `Parent Category` and `Year` columns. After that, by filtered the `Parent Category` by `Theater` within the pivot table, we now can analyze the theater category. Finally, I created a dotted line chart from the pivot table in order to complete the  visualize the relationship between outcomes and launch month.
 The line chart shows the number of successful, failed, or canceled projects by month. From here, we can see how each month impacted the fundraising campaign outcome with the line chart visualization:
 ###### Pivot Chart
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png]
 ###### Challenges and Difficulties Encountered
 Excel is a tool that can be used across all Organizations areas, some of the tools are quite easy to follow, but for anyone that is new to Excel, it can be a little bit overwhelming determining the correct formular and their placement to get the results that you need. Also, it is quite confusing to figured out the budget range by using `COUNTIFS()` formular when from the second database that is provided. 
 ## Result:
